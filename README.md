@@ -1,8 +1,8 @@
-# Clinic database: database performance audit
+# Clinic database
 
-## This is pull request about dababases performance (Pair Programming)
+## This is pull request about create clinic database (Pair Programming)
 
-- where you will be ablle to find all data, inputs and queries in their directories inside the github repo.
+- where you will be able to find all data, inputs and queries in their directories inside the github repo.
 
 ## Getting Started
 
@@ -44,9 +44,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Thanks to the whole team for the help.
 
 ## 📝 License
 
